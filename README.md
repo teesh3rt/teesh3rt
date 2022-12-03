@@ -1,3 +1,8 @@
 Hi, I’m @teesh3rt👋
 
-im just a guy making software probably noone will ever use LOL
+# Who am i?
+Just a guy, like you all.
+I like programming for fun.
+
+# What do i?
+I like to just make stuff for fun. I dont have any specific knowledge of one thing.
