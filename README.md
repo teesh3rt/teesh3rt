@@ -1,8 +1,8 @@
-Hi, I’m @teesh3rt👋
+# Hello, World!
 
-# Who am i?
-Just a guy, like you all.
-I like programming for fun.
+I'm @teesh3rt! I code stuff for fun.
+Some of my projects (or projects i work on) include:
 
-# What do i?
-I like to just make stuff for fun. I dont have any specific knowledge of one thing.
+- [Nexus](https://github.com/steeldev0/nexus) - A cross-server chatting bot for Discord.
+- [Tasky](https://github.com/teesh3rt/tasky) - A Discord bot to keep track of your tasks.
+- [BlahBlah](https://github.com/teesh3rt/blahblah) - A tool for in-real-time communication
